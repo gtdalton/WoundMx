@@ -1,0 +1,23 @@
+body{
+  margin-top:100px;
+  background-color:LightCyan;
+}
+
+a.anchor{
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+
+h2{
+  text-align:center
+}
+
+.thumb1{
+  background:url('https://pocketdentistry.com/wp-content/uploads/285/B978145575316100004X_f004-008-9781455753161.jpg') no-repeat;
+  width:290px;
+  height:240px;
+
+
+}
